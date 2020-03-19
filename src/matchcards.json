@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/images/arsenal.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./assets/images/acmiln.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./assets/images/chelsea.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./assets/images/chievo.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./assets/images/inter.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./assets/images/juve.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./assets/images/lazio.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./assets/images/liverpool.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./assets/images/mancity.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./assets/images/mu.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./assets/images/roma.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./assets/images/westham.jpg",
+        "clicked": false
+    }
+]
